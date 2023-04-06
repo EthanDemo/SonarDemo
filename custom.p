@@ -18,5 +18,9 @@ BLOCK-LEVEL ON ERROR UNDO, THROW.
 
 /* ********************  Preprocessor Definitions  ******************** */
 
+def var helloworld as char.
+
+message
+    "hello world" view-as alert-box.
 
 /* ***************************  Main Block  *************************** */
